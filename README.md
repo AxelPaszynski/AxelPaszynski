@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AxelPaszynski
 - 👀 I’m interested in Basketball
 - 🌱 I’m currently learning in BTS SIO
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project of c#
 - 📫 How to reach me @axel_pasz
 - 😄 Pronouns: HIM
 - ⚡ Fun fact:
